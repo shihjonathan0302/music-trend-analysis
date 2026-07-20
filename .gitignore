@@ -1,0 +1,6 @@
+.DS_Store
+# Raw data is large (~500MB); download from Kaggle per README instead of committing
+data/raw/
+db/*.db
+__pycache__/
+.ipynb_checkpoints/
