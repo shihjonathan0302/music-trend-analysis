@@ -1,0 +1,11 @@
+# Core data stack for the Music Hit & Trend Analysis project.
+# Reproduce the environment with:
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
