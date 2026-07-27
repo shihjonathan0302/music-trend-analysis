@@ -8,4 +8,4 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
-ipykernel
+ipykernel==6.29.5  # pinned: ipykernel 7.x hangs with the VSCode Jupyter extension
